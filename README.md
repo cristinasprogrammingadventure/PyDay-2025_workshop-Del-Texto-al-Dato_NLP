@@ -2,9 +2,12 @@
 
 ### Workshop para el evento PyDay 2025 del 29 de noviembre en Barcelona 
 
-Este repositorio contiene los materiales del taller **“Del texto al dato: cómo entienden las máquinas el lenguaje con Python”**, un ejercicio práctico de introducción al análisis de texto y sentimiento con Python y Google Colab (para que sea más ameno, aunque si ya tienes instalado y actualizado Anaconda o Visual Studio Code con las bibliotecas apropiadas para NLP y Data science, también las puedes usar).
+Este repositorio contiene los materiales del taller **“Del texto al dato: cómo entienden las máquinas el lenguaje con Python”**, un ejercicio práctico de introducción al **procesamiento del lenguaje natural** (***NLP - Natural Language Process***), a través del análisis de texto y sentimiento con ***Python***. 
 
-El objetivo es mostrar, de manera accesible, cómo los algoritmos procesan el lenguaje para identificar tono, frecuencia de palabras y patrones en los textos. A través de ejemplos con **NLTK**, **TextBlob** y **spaCy**, aprenderemos a aplicar técnicas básicas de procesamiento del lenguaje natural (NLP) y a visualizar los resultados mediante gráficos, nubes de palabras y comparaciones entre textos.
+El objetivo es mostrar, de manera accesible, cómo los algoritmos procesan el lenguaje para identificar tono, frecuencia de palabras y patrones en los textos. A través de ejemplos con **NLTK**, **TextBlob** y **spaCy**, aprenderemos a aplicar técnicas básicas de **procesamiento del lenguaje natural** y a visualizar los resultados mediante gráficos, nubes de palabras y comparaciones entre textos.
+
+Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se usará ***Google Colab Notebooks***, herramienta IDE en la nube que facilita la instalación de librerías de Python (si has instalado recientemente o actualizado *Anaconda* o *Visual Studio Code* con las bibliotecas apropiadas para el NLP y Data science, también las podrías usar, pero hay que asegurar la compatibilidad de versiones y dependencias).
+
 
 ---
 
