@@ -22,7 +22,7 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 
 ## Requisitos
 
-- Navegador web, cuenta Google y acceso a **Google Colab** (sin necesidad de instalar Python localmente ni muchas de las librerías, ya que vvarias ya vienen incluidas).  
+- Navegador web, cuenta Google y acceso a **Google Colab** (sin necesidad de instalar Python localmente ni muchas de las librerías (varios paquetes ya vienen incluidos)).  
 - Librerías principales de Python: `pandas`, `numpy`,  `nltk`, `pysentimiento`, `spacy`, `textblob`, `matplotlib`, `wordcloud`.  
 - Nivel recomendado: Python intermedio, sin necesidad de experiencia previa en NLP.
 
