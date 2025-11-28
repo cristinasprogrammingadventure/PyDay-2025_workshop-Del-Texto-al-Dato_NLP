@@ -1,12 +1,12 @@
 # Del texto al dato: cómo entienden las máquinas el lenguaje con Python
 
-### Workshop para el evento PyDay 2025 del 29 de noviembre en Barcelona 
+### Workshop para el evento PyDay 2025 del 29 de noviembre en Barcelona - duración 1h30 (90 minutos)
 
 Este repositorio contiene los materiales del taller **“Del texto al dato: cómo entienden las máquinas el lenguaje con Python”**, un ejercicio práctico de introducción al **procesamiento del lenguaje natural** (***NLP - Natural Language Process***), a través del análisis de texto y sentimiento con ***Python***. 
 
-El objetivo es mostrar, de manera accesible, cómo los algoritmos procesan el lenguaje para identificar tono, frecuencia de palabras y patrones en los textos. A través de ejemplos con **NLTK**, **TextBlob** y **spaCy**, aprenderemos a aplicar técnicas básicas de **procesamiento del lenguaje natural** y a visualizar los resultados mediante gráficos, nubes de palabras y comparaciones entre textos.
+El objetivo es mostrar, de manera accesible, cómo los algoritmos procesan el lenguaje para identificar tono, frecuencia de palabras y patrones en los textos. A través de ejemplos con **TextBlob**, **NLTK**, **Vader**, **pysentimiento** y **spaCy**, aprenderemos a aplicar técnicas básicas de **procesamiento del lenguaje natural** y a visualizar los resultados mediante gráficos, nubes de palabras y comparaciones entre textos.
 
-Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se usará ***Google Colab Notebooks***, herramienta IDE en la nube que facilita la instalación de librerías de Python (si has instalado recientemente o actualizado *Anaconda* o *Visual Studio Code* con las bibliotecas apropiadas para el NLP y Data science, también las podrías usar, pero hay que asegurar la compatibilidad de versiones y dependencias).
+Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se usará ***Google Colab Notebooks***, herramienta IDE en la nube que facilita la instalación de librerías de Python (si has instalado recientemente o actualizado *Anaconda* o *Visual Studio Code* con las bibliotecas apropiadas muy actualizadas para el NLP y Data science, se podrían usar, pero hay que asegurar la compatibilidad de versiones y dependencias). SIn embargo se recomienda que todos los participantes tengan las mismas herramientas y usar Google Colab para una óptima puesta en marcha del taller.
 
 
 ---
@@ -22,8 +22,8 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 
 ## Requisitos
 
-- Navegador web y acceso a **Google Colab** (no es necesario instalar Python localmente).  
-- Librerías principales: `pandas`, `nltk`, `spacy`, `textblob`, `matplotlib`, `wordcloud`.  
+- Navegador web, cuenta Google y acceso a **Google Colab** (sin necesidad de instalar Python localmente ni muchas de las librerías, ya que vvarias ya vienen incluidas).  
+- Librerías principales de Python: `pandas`, `numpy`,  `nltk`, `pysentimiento`, `spacy`, `textblob`, `matplotlib`, `wordcloud`.  
 - Nivel recomendado: Python intermedio, sin necesidad de experiencia previa en NLP.
 
 ---
