@@ -30,14 +30,19 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 
 ## Cómo usar este material
 
-1. Abre el notebook (por ejemoplo el llamado "NLP_NLTK_VADER_no_outputs.ipynb" en Google Colab desde el enlace correspondiente
+1. Abre el notebook (por ejemoplo el llamado "NLP_NLTK_VADER_no_outputs.ipynb" en Google Colab desde el enlace correspondiente 
 2. ó bájatelo (download) desde la página del archivo en mi GitHub → Guardar una copia en Drive
-
 3. Ejecuta las celdas paso a paso conmigo para cargar librerías, procesar el texto, comentarlo y visualizar los resultados.  
 4. Puedes copiar el código, poner tus propios textos o modificarlo para explorar nuevos ejemplos.
 
 ✔ Si guardan una copia en su Drive la tendrán para siempre.
-✖ SI no la guardan su sesión desaparece al cerrar el navegador y no tendrán nada después.
+
+✖ Si no la guardan su sesión desaparece al cerrar el navegador.
+
+
+- "NLP_NLTK_VADER_no_outputs.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER_no_outputs.ipynb
+)
 
 ---
 
