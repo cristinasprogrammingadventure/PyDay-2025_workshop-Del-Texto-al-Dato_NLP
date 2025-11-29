@@ -13,9 +13,9 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 
 ## Contenido del repositorio
 
-- `notebooks/`: cuadernos de Python utilizados en el taller.  
-- `data/`: ejemplos de textos o datasets sencillos para practicar.  
-- `images/`: figuras o gráficos generados en las visualizaciones.  
+- `notebooks`: cuadernos de Python utilizados en el taller.  
+- `data`: ejemplos de textos o datasets sencillos para practicar.  
+- `images`: figuras o gráficos generados en las visualizaciones.  
 - `README.md`: descripción general del proyecto y condiciones de uso.
 
 ---
@@ -40,9 +40,19 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 ✖ Si no la guardan su sesión desaparece al cerrar el navegador.
 
 
+- "NLP_Filmaffinity_no_output.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity_no_output.ipynb
+)
+
+- NLP_Sentiment_Analysis_restaurantes_no_output.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Sentiment_Analysis_restaurantes_no_output.ipynb
+)
+
 - "NLP_NLTK_VADER_no_outputs.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER_no_outputs.ipynb
 )
+
+
 
 ---
 
