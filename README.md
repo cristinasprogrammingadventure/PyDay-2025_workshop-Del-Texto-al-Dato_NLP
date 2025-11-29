@@ -30,9 +30,14 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 
 ## Cómo usar este material
 
-1. Abre el notebook en Google Colab desde el enlace correspondiente.  
-2. Ejecuta las celdas paso a paso para cargar librerías, procesar el texto y visualizar los resultados.  
-3. Puedes copiar el código, adaptarlo a tus propios textos o modificarlo para explorar nuevos ejemplos.
+1. Abre el notebook (por ejemoplo el llamado "NLP_NLTK_VADER_no_outputs.ipynb" en Google Colab desde el enlace correspondiente
+2. ó bájatelo (download) desde la página del archivo en mi GitHub → Guardar una copia en Drive
+
+3. Ejecuta las celdas paso a paso conmigo para cargar librerías, procesar el texto, comentarlo y visualizar los resultados.  
+4. Puedes copiar el código, poner tus propios textos o modificarlo para explorar nuevos ejemplos.
+
+✔ Si guardan una copia en su Drive la tendrán para siempre.
+✖ SI no la guardan su sesión desaparece al cerrar el navegador y no tendrán nada después.
 
 ---
 
