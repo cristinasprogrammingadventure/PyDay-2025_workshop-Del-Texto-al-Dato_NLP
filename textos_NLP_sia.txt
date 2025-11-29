@@ -1,0 +1,33 @@
+
+Filmaffinity - Si pudiera, te daría una patada (peli americana, 2025)
+texto1=> reseña y voto de Rai
+https://www.filmaffinity.com/es/user/rating/447567/194845.html
+* se analiza el texto/opinión de la reseña escrita, no del sinopsis ni los títulos
+
+Filmaffinity - Amor a lo bestia (peli inglesa, 2024)
+texto1=> reseña y voto de Richy:
+https://www.filmaffinity.com/es/user/rating/111174/284233.html
+* se analiza el texto de la reseña/opinión escrita, no del sinopsis ni los títulos
+
+
+Reseñas de restaurantes español e inglés:
+
+# === Ejemplos con los textos en español y traducidos al inglés ===
+
+texto1 = "Volveré ! El servicio es excelente y la comida, deliciosa. El ambiente es agradable. El personal muy atento. Excelente ubicación. Personalmente, me agrada mucho. Sin duda volveré pronto."
+texto2 = "La espera fue larga y la comida llegó fría. El servicio fue descuidado y la experiencia en general bastante decepcionante."
+texto3 = "I will return! The service is excellent and the food is delicious. The atmosphere is pleasant. The staff is very attentive. Excellent location. Personally, I like it a lot. I will definitely be back soon."
+texto4 = "OMG !!! The wait was TOO LONG and the food arrived cold. The service was careless and the overall experience was quite disappointing."
+texto5 = "OMG, OH MY GOD !!! The wait was TOO LONG and the food arrived cold. The service was careless and the overall experience was quite disappointing, but my kids love it."  # + parte contrastante "but my kids love it"
+
+
+Textos largos de interés tipo entrevista / speech:
+
+Steve Jobs
+https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
+
+Elon Musk
+https://www.englishspeecheschannel.com/english-speeches/elon-musk-2021-speech/
+
+Ai and Mars, (Musk in Dubai)
+https://www.englishspeecheschannel.com/english-speeches/elon-musk-speech/
