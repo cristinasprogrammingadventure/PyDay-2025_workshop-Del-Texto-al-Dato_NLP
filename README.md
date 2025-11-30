@@ -18,6 +18,23 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 - `images`: figuras o gráficos generados en las visualizaciones.  
 - `README.md`: descripción general del proyecto y condiciones de uso.
 
+### Archivos Jupyter Notebook con 'output' invisible (código y texto en formato markdown):
+
+- "NLP_Filmaffinity_no_output.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity_no_output.ipynb
+)
+
+- NLP_Sentiment_Analysis_restaurantes_no_output.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Sentiment_Analysis_restaurantes_no_output.ipynb
+)
+
+- "NLP_NLTK_VADER_no_outputs.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER_no_outputs.ipynb
+)
+
+### Archivos Jupyter Notebook con el 'output' visible (código, texto en formato markdown y  resultados de salida)
+   
+
 ---
 
 ## Requisitos
@@ -38,20 +55,6 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 ✔ Si guardan una copia en su Drive la tendrán para siempre.
 
 ✖ Si no la guardan su sesión desaparece al cerrar el navegador.
-
-
-- "NLP_Filmaffinity_no_output.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity_no_output.ipynb
-)
-
-- NLP_Sentiment_Analysis_restaurantes_no_output.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Sentiment_Analysis_restaurantes_no_output.ipynb
-)
-
-- "NLP_NLTK_VADER_no_outputs.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER_no_outputs.ipynb
-)
-
 
 
 ---
