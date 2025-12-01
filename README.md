@@ -18,7 +18,22 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 - `images`: figuras o gráficos generados en las visualizaciones.  
 - `README.md`: descripción general del proyecto y condiciones de uso.
 
-### Archivos Jupyter Notebook con 'output' invisible (código y texto en formato markdown):
+### Archivos Jupyter Notebook con el 'output' visible (código, texto en formato markdown y  resultados de salida)
+   
+NLP_restaurantes.ipynb
+- "NLP_Filmaffinity.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity.ipynb
+)
+
+- NLP_restaurantes.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_restaurantes.ipynb
+)
+
+- "NLP_NLTK_VADER.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER.ipynb
+)
+
+### Archivos Jupyter Notebook sin 'output' (sólo código y texto en formato markdown):
 
 - "NLP_Filmaffinity_no_output.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity_no_output.ipynb
@@ -32,8 +47,6 @@ https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-202
 https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER_no_outputs.ipynb
 )
 
-### Archivos Jupyter Notebook con el 'output' visible (código, texto en formato markdown y  resultados de salida)
-   
 
 ---
 
