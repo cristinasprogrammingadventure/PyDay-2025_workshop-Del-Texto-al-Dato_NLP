@@ -66,6 +66,24 @@ https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-202
 Una vez descargada su copia del archivo, el usuario es libre de explorar con sus propios textos, modificando así los texto que encontrará entre comillas (como objetos de tipo *string*) para ver las diferencias de resultados entre varios textos de su interés. 
 
 ---
+## Ejemplos de imagenes y resultados obtenidos al ejecutar el código Python de los Notebooks contenidos en el repositorio
+
+- Imagen "results_SIA-NLTK-Vader.png"
+  <img width="1631" height="657" alt="0-results_SIA-NLTK-Vader" src="https://github.com/user-attachments/assets/051eaf95-f197-4b00-9a2a-f4ed351ae5f6" />
+ 
+- Imagen "restaurantes_POS-NEG-NEU-compound_.png"
+<img width="989" height="589" alt="1-restaurantes_POS-NEG-NEU-compound_" src="https://github.com/user-attachments/assets/b991f5bc-6dd5-470b-9d2c-41431ebc931d" />
+
+- Imagen "restaurantes_palabras-afectacion-textos.png"
+<img width="1260" height="881" alt="3-restaurantes_palabras-afectacion-textos" src="https://github.com/user-attachments/assets/757e0d8e-60d8-4b25-862c-bf8ca7f2033c" />
+
+- Imagen "restaurantes_radar-afectacion-POS-NEG.png"
+<img width="1189" height="654" alt="4-restaurantes_radar-afectacion-POS-NEG" src="https://github.com/user-attachments/assets/419c8839-2bc3-46a2-aaae-9fc072d4458b" />
+
+- Imagen "restaurantes_afectacion-radar-por-textos3-5.png"
+<img width="1185" height="579" alt="6-restaurantes_afectacion-radar-por-textos3-5" src="https://github.com/user-attachments/assets/bae301d3-ad9f-4794-a119-db9cc7958fdc" />
+
+
 
 ## Licencia
 
