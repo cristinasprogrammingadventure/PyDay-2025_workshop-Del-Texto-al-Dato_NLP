@@ -24,8 +24,8 @@ Para facilitar el taller y optimizar el tiempo en la materia que nos ocupa, se u
 https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity_no_output.ipynb
 )
 
-- NLP_Sentiment_Analysis_restaurantes_no_output.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Sentiment_Analysis_restaurantes_no_output.ipynb
+- NLP_restaurantes_no_output.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_restaurantes_no_output.ipynb
 )
 
 - "NLP_NLTK_VADER_no_outputs.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
