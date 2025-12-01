@@ -35,18 +35,11 @@ https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-202
 
 ### Archivos Jupyter Notebook con el 'output' visible (código, texto en formato markdown y  resultados de salida)
    
-NLP_restaurantes.ipynb
-- "NLP_Filmaffinity.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_Filmaffinity.ipynb
-)
-
 - NLP_restaurantes.ipynb -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_restaurantes.ipynb
 )
 
-- "NLP_NLTK_VADER.ipynb" -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-2025_workshop-Del-Texto-al-Dato_NLP/blob/main/NLP_NLTK_VADER.ipynb
-)
+
 
 
 ---
