@@ -69,6 +69,7 @@ https://colab.research.google.com/github/cristinasprogrammingadventure/PyDay-202
 
 ✖ Si no la guardan su sesión desaparece al cerrar el navegador.
 
+Una vez descargada su copia del archivo, el usuario es libre de explorar con sus propios textos, modificando así los texto que encontrará entre comillas (como objetos de tipo *string*) para ver las diferencias de resultados entre varios textos de su interés. 
 
 ---
 
